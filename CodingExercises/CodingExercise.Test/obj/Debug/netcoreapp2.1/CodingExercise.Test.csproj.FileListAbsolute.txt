@@ -1,0 +1,17 @@
+C:\Users\thays\Source\Repos\Coding Exercise\CodingExercises\CodingExercise.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\thays\Source\Repos\Coding Exercise\CodingExercises\CodingExercise.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\thays\Source\Repos\Coding Exercise\CodingExercises\CodingExercise.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\thays\Source\Repos\Coding Exercise\CodingExercises\CodingExercise.Test\bin\Debug\netcoreapp2.1\CodingExercise.Test.deps.json
+C:\Users\thays\Source\Repos\Coding Exercise\CodingExercises\CodingExercise.Test\bin\Debug\netcoreapp2.1\CodingExercise.Test.runtimeconfig.json
+C:\Users\thays\Source\Repos\Coding Exercise\CodingExercises\CodingExercise.Test\bin\Debug\netcoreapp2.1\CodingExercise.Test.runtimeconfig.dev.json
+C:\Users\thays\Source\Repos\Coding Exercise\CodingExercises\CodingExercise.Test\bin\Debug\netcoreapp2.1\CodingExercise.Test.dll
+C:\Users\thays\Source\Repos\Coding Exercise\CodingExercises\CodingExercise.Test\bin\Debug\netcoreapp2.1\CodingExercise.Test.pdb
+C:\Users\thays\Source\Repos\Coding Exercise\CodingExercises\CodingExercise.Test\bin\Debug\netcoreapp2.1\CodingExercises.dll
+C:\Users\thays\Source\Repos\Coding Exercise\CodingExercises\CodingExercise.Test\bin\Debug\netcoreapp2.1\CodingExercises.pdb
+C:\Users\thays\Source\Repos\Coding Exercise\CodingExercises\CodingExercise.Test\obj\Debug\netcoreapp2.1\CodingExercise.Test.csprojAssemblyReference.cache
+C:\Users\thays\Source\Repos\Coding Exercise\CodingExercises\CodingExercise.Test\obj\Debug\netcoreapp2.1\CodingExercise.Test.csproj.CoreCompileInputs.cache
+C:\Users\thays\Source\Repos\Coding Exercise\CodingExercises\CodingExercise.Test\obj\Debug\netcoreapp2.1\CodingExercise.Test.AssemblyInfoInputs.cache
+C:\Users\thays\Source\Repos\Coding Exercise\CodingExercises\CodingExercise.Test\obj\Debug\netcoreapp2.1\CodingExercise.Test.AssemblyInfo.cs
+C:\Users\thays\Source\Repos\Coding Exercise\CodingExercises\CodingExercise.Test\obj\Debug\netcoreapp2.1\CodingExercise.Test.csproj.CopyComplete
+C:\Users\thays\Source\Repos\Coding Exercise\CodingExercises\CodingExercise.Test\obj\Debug\netcoreapp2.1\CodingExercise.Test.dll
+C:\Users\thays\Source\Repos\Coding Exercise\CodingExercises\CodingExercise.Test\obj\Debug\netcoreapp2.1\CodingExercise.Test.pdb

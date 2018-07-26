@@ -1,0 +1,9 @@
+C:\Users\thays\Source\Repos\Coding Exercise\CodingExercises\CodingExercises\bin\Debug\netcoreapp2.1\CodingExercises.deps.json
+C:\Users\thays\Source\Repos\Coding Exercise\CodingExercises\CodingExercises\bin\Debug\netcoreapp2.1\CodingExercises.dll
+C:\Users\thays\Source\Repos\Coding Exercise\CodingExercises\CodingExercises\bin\Debug\netcoreapp2.1\CodingExercises.pdb
+C:\Users\thays\Source\Repos\Coding Exercise\CodingExercises\CodingExercises\obj\Debug\netcoreapp2.1\CodingExercises.csprojAssemblyReference.cache
+C:\Users\thays\Source\Repos\Coding Exercise\CodingExercises\CodingExercises\obj\Debug\netcoreapp2.1\CodingExercises.csproj.CoreCompileInputs.cache
+C:\Users\thays\Source\Repos\Coding Exercise\CodingExercises\CodingExercises\obj\Debug\netcoreapp2.1\CodingExercises.AssemblyInfoInputs.cache
+C:\Users\thays\Source\Repos\Coding Exercise\CodingExercises\CodingExercises\obj\Debug\netcoreapp2.1\CodingExercises.AssemblyInfo.cs
+C:\Users\thays\Source\Repos\Coding Exercise\CodingExercises\CodingExercises\obj\Debug\netcoreapp2.1\CodingExercises.dll
+C:\Users\thays\Source\Repos\Coding Exercise\CodingExercises\CodingExercises\obj\Debug\netcoreapp2.1\CodingExercises.pdb
